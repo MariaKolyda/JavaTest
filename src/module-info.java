@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kolid
+ *
+ */
+module JavaTest {
+}
